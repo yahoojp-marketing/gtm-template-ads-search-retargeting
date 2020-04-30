@@ -10,7 +10,8 @@ ___INFO___
 
 {
   "displayName": "Yahoo広告（検索広告） - サイトリターゲティングタグ",
-  "description": "Yahoo広告（検索広告）の「サイトリターゲティング」の広告配信用のタグです。",
+  "description": "Yahoo広告（検索広告）の「サイトリターゲティング」の広告配信用のタグです。\n※タグの実行順序について注意点があります。下の「リンク」にある「ドキュメント」をクリックしてご確認ください。",
+  "categories": ["ADVERTISING", "MARKETING", "REMARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
@@ -32,7 +33,7 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "LABEL",
     "name": "product_link",
-    "displayName": "\u003ca href\u003d\"https://support-marketing.yahoo.co.jp/promotionalads/ss/articledetail?lan\u003dja\u0026aid\u003d7465\"\u003eサイトリターゲティングについて\u003c/a\u003e"
+    "displayName": "\u003ca href\u003d\"https://support-marketing.yahoo.co.jp/promotionalads/ss/articledetail?lan\u003dja\u0026aid\u003d7465\"\u003eサイトリターゲティング（検索広告）について\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「サイトリターゲティング（ディスプレイ広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e"
   },
   {
     "help": "Yahoo広告（検索広告）のサイトリターゲティングタグを識別するためのIDです。サイトリターゲティング用タグに記載されているIDを入力してください。IDは10桁の半角英数字です。",
@@ -275,6 +276,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 2020/3/18 11:37:19
+Created on 2020/4/30 17:03:05
 
 
