@@ -16,9 +16,11 @@ homepage: "https://www.lycbiz.com/jp/service/yahoo-ads/"
 documentation: "https://ads-help.yahoo-net.jp/s/article/H000044876?language=ja"
 versions:
   # Latest version
-  - sha: 15dc744b116682dbf6d86e47a99e6224a96d2551
-    changeNotes: ご利用時の注意点を記載しました
+  - sha: 9b307b2b186b178cfad95362f3dafb54669afd18
+    changeNotes: Update information
 
   # Older versions
+  - sha: 15dc744b116682dbf6d86e47a99e6224a96d2551
+    changeNotes: ご利用時の注意点を記載しました
   - sha: f1312f941a0273dbda9ebf890516d6d5d3b88e61
     changeNotes: Initial Version
