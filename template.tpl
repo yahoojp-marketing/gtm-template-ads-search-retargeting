@@ -9,8 +9,8 @@ Google may provide), as modified from time to time.
 ___INFO___
 
 {
-  "displayName": "Yahoo広告（検索広告） - サイトリターゲティングタグ",
-  "description": "Yahoo広告（検索広告）の「サイトリターゲティング」の広告配信用のタグです。\n※タグの実行順序について注意点があります。下の「リンク」にある「ドキュメント」をクリックしてご確認ください。",
+  "displayName": "LINEヤフー広告（検索広告） - サイトリターゲティングタグ",
+  "description": "LINEヤフー広告（検索広告）の「サイトリターゲティング」の広告配信用のタグです。\n※タグの実行順序について注意点があります。下の「リンク」にある「ドキュメント」をクリックしてご確認ください。",
   "categories": ["ADVERTISING", "MARKETING", "REMARKETING"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
@@ -33,10 +33,10 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "LABEL",
     "name": "product_link",
-    "displayName": "\u003ca href\u003d\"https://support-marketing.yahoo.co.jp/promotionalads/ss/articledetail?lan\u003dja\u0026aid\u003d7465\"\u003eサイトリターゲティング（検索広告）について\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「サイトリターゲティング（ディスプレイ広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e"
+    "displayName": "\u003ca href\u003d\"https://ads-help.yahoo-net.jp/s/article/H000044937?language\u003dja\"\u003eサイトリターゲティング（検索広告）について\u003c/a\u003e\u003cbr\u003e\n※タグの実行順序について注意点があります。上の「サイトリターゲティング（検索広告）について」をクリックしてドキュメントをご確認ください。\u003cbr\u003e\u003cbr\u003e"
   },
   {
-    "help": "Yahoo広告（検索広告）のサイトリターゲティングタグを識別するためのIDです。サイトリターゲティング用タグに記載されているIDを入力してください。IDは10桁の半角英数字です。",
+    "help": "LINEヤフー広告（検索広告）のサイトリターゲティングタグを識別するためのIDです。サイトリターゲティング用タグに記載されているIDを入力してください。IDは10桁の半角英数字です。",
     "displayName": "リターゲティングID",
     "simpleValueType": true,
     "name": "retargeting_id",
